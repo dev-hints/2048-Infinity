@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.0"
+        android:scaleY="1.0"
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Infinity Loop Ribbon -->
+        <path
+            android:strokeColor="#6366F1"
+            android:strokeWidth="7"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M38,44 C26,32 16,42 16,54 C16,66 26,76 38,64 C50,52 58,52 70,64 C82,76 92,66 92,54 C92,42 82,32 70,44 C58,56 50,56 38,44 Z" />
+        <path
+            android:strokeColor="#38BDF8"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M38,44 C26,32 16,42 16,54 C16,66 26,76 38,64 C50,52 58,52 70,64 C82,76 92,66 92,54 C92,42 82,32 70,44 C58,56 50,56 38,44 Z" />
+        <!-- Glowing Core Center Dot -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M54,51 a3,3 0 1,0 0.001,0" />
+    </group>
+</vector>

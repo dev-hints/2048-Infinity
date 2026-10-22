@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">2048-Infinity</string>
+    <string name="developer_name">StrangeInfinity</string>
+    <string name="tagline">Merge. Think. Go Beyond.</string>
+    <string name="score">SCORE</string>
+    <string name="best_score">BEST</string>
+    <string name="moves">MOVES</string>
+    <string name="new_game">New Game</string>
+    <string name="undo">Undo</string>
+    <string name="settings">Settings</string>
+    <string name="statistics">Statistics</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again</string>
+    <string name="victory_title">2048 Achieved!</string>
+    <string name="victory_subtitle">You merged the legendary 2048 tile!</string>
+    <string name="keep_going">Keep Going</string>
+    <string name="restart_title">Start New Game?</string>
+    <string name="restart_message">Your current board progress will be reset.</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Restart</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="haptic_feedback">Haptic Feedback</string>
+    <string name="theme">Theme</string>
+    <string name="theme_system">Follow System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="board_size">Board Size</string>
+    <string name="reset_stats">Reset Statistics</string>
+    <string name="reset_stats_confirm">Are you sure you want to reset all game statistics?</string>
+    <string name="about_title">About 2048-Infinity</string>
+    <string name="about_attribution">2048-Infinity is designed and developed by StrangeInfinity.</string>
+</resources>
